@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Can_Excel_Logger")]
+[assembly: AssemblyTitle("canexceldeneme")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Can_Excel_Logger")]
+[assembly: AssemblyProduct("canexceldeneme")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("75c66ab7-0610-45b6-921d-07969c5ccb6c")]
+[assembly: Guid("6db8f75f-2bf9-45ed-8c0f-edd28b908a40")]
 
 // Version information for an assembly consists of the following four values:
 //

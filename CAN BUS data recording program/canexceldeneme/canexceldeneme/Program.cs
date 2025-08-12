@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Can_Excel_Logger
+namespace canexceldeneme
 {
     internal static class Program
     {

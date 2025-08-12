@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Can_Excel_Logger.Properties
+namespace canexceldeneme.Properties
 {
 
 

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Can_Excel_Logger", "Can_Excel_Logger\Can_Excel_Logger.csproj", "{75C66AB7-0610-45B6-921D-07969C5CCB6C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "canexceldeneme", "canexceldeneme\canexceldeneme.csproj", "{6DB8F75F-2BF9-45ED-8C0F-EDD28B908A40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{75C66AB7-0610-45B6-921D-07969C5CCB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{75C66AB7-0610-45B6-921D-07969C5CCB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{75C66AB7-0610-45B6-921D-07969C5CCB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{75C66AB7-0610-45B6-921D-07969C5CCB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB8F75F-2BF9-45ED-8C0F-EDD28B908A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB8F75F-2BF9-45ED-8C0F-EDD28B908A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB8F75F-2BF9-45ED-8C0F-EDD28B908A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB8F75F-2BF9-45ED-8C0F-EDD28B908A40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {657FAD10-6E95-4ED4-A0F2-445B54ED1A7D}
+		SolutionGuid = {10C52661-90C7-4F1B-BAAC-F6BC9F5D7779}
 	EndGlobalSection
 EndGlobal
